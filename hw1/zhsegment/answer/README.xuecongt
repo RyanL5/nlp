@@ -1,4 +1,0 @@
-- Implement the unigram algorithm by following the pseudo code
-- Implement the bigram model for segmentation
-- Fix algorithm issues in iterative segmenter
-- Test different variables to achieve better score

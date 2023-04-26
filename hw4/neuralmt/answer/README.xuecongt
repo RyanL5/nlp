@@ -1,4 +1,0 @@
-* Implement calcAlpha function for attention module
-* Implement forward function for attention module
-* Add function definition and evaluation in python notebook
-* Fix dimension and shape error for pytorch function call in attention module

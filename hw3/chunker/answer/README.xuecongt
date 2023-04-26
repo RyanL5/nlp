@@ -1,4 +1,0 @@
-* Implement functions for representing character level of each word
-* Add code description in notebook
-* Concatenate character level vector with word embedding
-* Fix logic error for functions which generate character level of each word
